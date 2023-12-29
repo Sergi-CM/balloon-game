@@ -1,7 +1,7 @@
 <styles lang="scss" scoped>
 .main {
   position: absolute;
-  bottom: 25%;
+  bottom: 10%;
   left: 50%;
   transform: translateX(-50%);
   width: 800px;
